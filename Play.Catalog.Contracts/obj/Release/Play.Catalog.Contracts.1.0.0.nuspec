@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Play.Catalog.Contracts</id>
+    <version>1.0.0</version>
+    <authors>Play.Catalog.Contracts</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="501c537decf90835bd974bdae60264b42652d0d8" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\bin\Release\net6.0\Play.Catalog.Contracts.dll" target="lib\net6.0\Play.Catalog.Contracts.dll" />
+  </files>
+</package>

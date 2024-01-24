@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-        "projectName": "Play.Catalog.Service",
-        "projectPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectName": "Play.Catalog.Contracts",
+        "projectPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\mihin\\.nuget\\packages\\",
-        "outputPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\obj\\",
+        "outputPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,10 +41,71 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectName": "Play.Catalog.Service",
+        "projectPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "packagesPath": "C:\\Users\\mihin\\.nuget\\packages\\",
+        "outputPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mihin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
+                "projectPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Play.Common": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

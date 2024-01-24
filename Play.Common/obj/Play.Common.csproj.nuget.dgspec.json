@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
@@ -42,6 +42,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0, )"

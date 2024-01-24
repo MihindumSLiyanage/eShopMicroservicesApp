@@ -58,3 +58,15 @@ D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cl
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Polly.dll
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Polly.Extensions.Http.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\MassTransit.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\MassTransit.Abstractions.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Play.Catalog.Contracts.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\System.Text.Json.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\System.Threading.Channels.dll

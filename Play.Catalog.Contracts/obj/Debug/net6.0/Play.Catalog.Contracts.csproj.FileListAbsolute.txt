@@ -1,0 +1,12 @@
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\bin\Debug\net6.0\Play.Catalog.Contracts.deps.json
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\bin\Debug\net6.0\Play.Catalog.Contracts.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\bin\Debug\net6.0\Play.Catalog.Contracts.pdb
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.sourcelink.json
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\refint\Play.Catalog.Contracts.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\Play.Catalog.Contracts.pdb
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Catalog.Contracts\obj\Debug\net6.0\ref\Play.Catalog.Contracts.dll
