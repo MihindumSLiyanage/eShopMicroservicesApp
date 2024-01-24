@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj": {}
+  },
+  "projects": {
+    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj",
+        "projectName": "Play.Common",
+        "projectPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\Play.Common.csproj",
+        "packagesPath": "C:\\Users\\mihin\\.nuget\\packages\\",
+        "outputPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mihin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

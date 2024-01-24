@@ -1,0 +1,13 @@
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\bin\Release\net6.0\Play.Common.deps.json
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\bin\Release\net6.0\Play.Common.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\bin\Release\net6.0\Play.Common.pdb
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.csproj.AssemblyReference.cache
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.AssemblyInfoInputs.cache
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.AssemblyInfo.cs
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.csproj.CoreCompileInputs.cache
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.sourcelink.json
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\refint\Play.Common.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\Play.Common.pdb
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Common\obj\Release\net6.0\ref\Play.Common.dll
