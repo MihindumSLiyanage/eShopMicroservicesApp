@@ -7,11 +7,25 @@ using Polly.Timeout;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var MyAllowedOrigins = "_myCORS";
+
 // Add services to the container.
 builder.AddMongo()
     .AddMongoRepository<InventoryItem>("inventoryitems")
     .AddMongoRepository<CatalogItem>("catalogitems")
     .AddMassTransitWithRabbitMq();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowedOrigins,
+                 policy =>
+                 {
+                     policy.WithOrigins("http://localhost:3000")
+                 .AllowAnyHeader()
+                 .AllowAnyMethod()
+                 .AllowCredentials();
+                 });
+});
 
 AddCatalogClients(builder);
 
@@ -30,6 +44,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowedOrigins);
 
 app.UseAuthorization();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
+    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
   },
   "projects": {
-    "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
+    "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectUniqueName": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "projectName": "Play.Inventory.Service",
-        "projectPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "packagesPath": "C:\\Users\\mihin\\.nuget\\packages\\",
-        "outputPath": "d:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\obj\\",
+        "outputPath": "D:\\UOK - MIT\\LEVEL 04 (2021-2022)\\SEM 02\\INTE 42243 - Distributed Systems and Cloud Computing\\Assingments\\Mini Project\\eShop\\Play.Inventory.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihin\\AppData\\Roaming\\NuGet\\NuGet.Config",

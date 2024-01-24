@@ -4,7 +4,11 @@ using Play.Common.MongoDb;
 using Play.Common.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
+
+var MyAllowedOrigins = "_myCORS";
+
 ServiceSettings serviceSettings;
+
 var configuration = builder.Configuration;
 
 // Add services to the container.
@@ -13,6 +17,18 @@ serviceSettings = configuration.GetSection("ServiceSettings").Get<ServiceSetting
 builder.AddMongo()
     .AddMongoRepository<Item>("items")
     .AddMassTransitWithRabbitMq();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowedOrigins,
+                 policy =>
+                 {
+                     policy.WithOrigins("http://localhost:3000")
+                 .AllowAnyHeader()
+                 .AllowAnyMethod()
+                 .AllowCredentials();
+                 });
+});
 
 //builder.Services.AddMassTransitHostedService();
 
@@ -37,6 +53,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowedOrigins);
 
 app.UseAuthorization();
 
