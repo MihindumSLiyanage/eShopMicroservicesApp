@@ -51,3 +51,10 @@ D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cl
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\obj\Debug\net6.0\Play.Inventory.Service.pdb
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\obj\Debug\net6.0\Play.Inventory.Service.genruntimeconfig.cache
 D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\obj\Debug\net6.0\ref\Play.Inventory.Service.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Polly.dll
+D:\UOK - MIT\LEVEL 04 (2021-2022)\SEM 02\INTE 42243 - Distributed Systems and Cloud Computing\Assingments\Mini Project\eShop\Play.Inventory.Service\bin\Debug\net6.0\Polly.Extensions.Http.dll
